@@ -1,4 +1,4 @@
-# Front-End Development using HTML, CSS, and Bootstrap
+# Front-End Development Practice
 
 ## 📖 About the Project
 This repository contains front-end development projects created using HTML, CSS, and Bootstrap. The project demonstrates the fundamentals of web development by building responsive, visually appealing, and user-friendly web interfaces.
